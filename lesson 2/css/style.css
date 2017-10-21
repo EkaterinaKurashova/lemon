@@ -1,0 +1,28 @@
+body{background: grey;
+	
+}
+
+p{
+	font-size: 20px;
+}
+
+test-form div{
+	
+	margin-top:0;
+	margin-bottom: 15px;
+	margin-left:0;
+	margin-right:0;
+	margin: 0 0 15px 0;
+	
+}
+test-form{
+	width: 400px;
+	background: rgba(0,0,0,.5);
+	border: 5px solid #aa33dd;
+	padding: 20px
+	}
+	textarea{
+		resize: vertical;
+		
+		
+	}
