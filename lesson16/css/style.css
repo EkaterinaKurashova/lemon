@@ -186,13 +186,14 @@ img{
 	color: #000;
 	margin: 0 auto 35px;
 }
+.interest{
+	margin: 0 0 140px 0;
+	position: relative;
+}
 .interest p{
 	display: inline-block;
 	max-width: 450px;
 	text-align: center;
-}
-.interest{
-	margin: 0 0 140px 0;
 }
 .map{
 	min-height: 590px;
@@ -204,12 +205,18 @@ img{
 	width: 570px;
 	height: 395px;
 	position: absolute;
-	top: 0;
+	margin: auto;
+	margin-top: 40px;
+  	top: 0; 
+  	left: 0; 
+  	bottom: 0; 
+  	right: 0;
 	background: #fff;
 	font-size: 14px;
 	color: #000;
 	font-weight: 700;
 	line-height: 1.2;
+	background-color: yellow;
 }
 .form-body{
 	display: flex;
